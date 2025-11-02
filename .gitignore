@@ -1,0 +1,26 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+.chainlit/
+chainlit.md
+
+# Logs
+logs/
+*.log
+
+# Temp artifacts
+temp_charts/
+temp_data/
+
+# Environment files
+.env
+
+# UV files
+*.uv
+uv.lock
